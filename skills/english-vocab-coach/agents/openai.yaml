@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Vocabulary Coach"
+  short_description: "IELTS-focused vocabulary learning and comparison"
+  default_prompt: "Teach me the supplied English word or compare the supplied words, then save the learning record."
