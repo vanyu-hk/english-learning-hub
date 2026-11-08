@@ -17,11 +17,12 @@ For one word, provide:
 - natural example sentences
 - common collocations and usage constraints
 - word family, common synonyms, and antonyms when useful
+- reliable prefix, root or base, and suffix analysis, with related words and a memory cue when useful
 - IELTS topics, task relevance, register, common traps, and high-value paraphrases
 
 For multiple words, also compare meaning, nuance, register, collocation restrictions, interchangeability, and typical learner errors. End with a compact decision guide and contrastive examples.
 
-Do not invent unsupported etymology, frequency claims, or IELTS scoring guarantees. Flag regional or context-dependent usage where relevant.
+Distinguish practical modern word formation from historical etymology. Do not force unreliable decompositions or infer meaning mechanically from an affix. Do not invent unsupported etymology, frequency claims, or IELTS scoring guarantees. Flag regional or context-dependent usage where relevant.
 
 ## Local learning records
 
